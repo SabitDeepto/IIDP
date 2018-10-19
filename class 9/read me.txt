@@ -1,0 +1,11 @@
+Lab No       Course                       Status (done)
+======	   =============                 ===============
+1 - 4     Ethics in IT ___________________		
+5 - 7     Problem Solving Process_________
+8 - 11   Data Structure & algorithm______
+12 - 15   Programming_____________________ 
+16 - 20   Digital Electronics_____________ 16, 17, 18 , 19 , 20
+21 - 24   Networking_______________________ 21,22,23,24
+25 - 30   Network Security _______________
+
+Total ______________________________________ = 9
