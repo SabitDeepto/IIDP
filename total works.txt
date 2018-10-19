@@ -1,5 +1,5 @@
 +++++++++++
-+ class 7 +
+# class 7 
 +++++++++++
 
 Lab No       Course                       Status (done)
@@ -17,7 +17,7 @@ total     =  30
 
 
 +++++++++++
-+ class 8 +
+# class 8 +
 +++++++++++
 
 Lab No       Course                       Status (done)
@@ -34,7 +34,7 @@ Total 	 = 9
 
 
 +++++++++++
-+ class 9 +
+# class 9 +
 +++++++++++
 
 Lab No       Course                       Status (done)
@@ -52,7 +52,7 @@ Total   = 13
 
 
 ++++++++++++
-+ class 10 +
+# class 10 +
 ++++++++++++
 
 Lab No       Course                       Status (done)
