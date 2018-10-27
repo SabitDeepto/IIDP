@@ -23,13 +23,13 @@ total     =  30
 Lab No       Course                       Status (done)
 ======	   =============                 ===============
 1 - 6     Ethics in IT ___________________		
-7 - 9     Problem Solving Process_________
-10 - 15   Data Structure & algorithm______
+7 - 9     Problem Solving Process_________ 7,8,9
+10 - 15   Data Structure & algorithm______ 10,11,12,13,14,15
 16 - 21   Programming_____________________ 16, 17, 18, 19, 20, 21
 22 - 24   HTML____________________________ 22, 23, 24
 25 - 30   MS Access_______________________
 ==========================================================================
-Total 	 = 9
+Total 	 = 18
 
 
 
@@ -40,14 +40,14 @@ Total 	 = 9
 Lab No       Course                       Status (done)
 ======	   =============                 ===============
 1 - 4     Ethics in IT ___________________		
-5 - 7     Problem Solving Process_________
-8 - 11   Data Structure & algorithm______
+5 - 7     Problem Solving Process_________5,6,7
+8 - 11   Data Structure & algorithm______8,9,10,11
 12 - 15   Programming_____________________ 12,13,14,15
 16 - 20   Digital Electronics_____________ 16, 17, 18 , 19 , 20
 21 - 24   Networking_______________________ 21,22,23,24
 25 - 30   Network Security _______________
 ==================================================================
-Total   = 13
+Total   = 20
 
 
 
@@ -58,14 +58,14 @@ Total   = 13
 Lab No       Course                       Status (done)
 ======	   =============                 ===============
 1 - 4     Ethics in IT ___________________		
-5 - 7     Problem Solving Process_________
-8 - 11   Data Structure & algorithm______
+5 - 7     Problem Solving Process_________5,6,7
+8 - 11   Data Structure & algorithm______8,9,10,11
 12 - 15   Programming_____________________ 12,13,14,15 = 4
 16 - 20   Digital Electronics_____________ 16
 21 - 24   Networking_______________________ 21,23, 24
 25 - 30   Network Security _______________
 ==================================================================
-Total = 8
+Total = 15
 
 
 
